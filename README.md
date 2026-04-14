@@ -4,7 +4,6 @@ Crée des sites web professionnels et animés avec l'IA — sans expérience en 
 
 Créé par [@bryanrichmaker](https://instagram.com/bryanrichmaker)
 
----
 
 ## Installation
 
@@ -28,7 +27,6 @@ git clone https://github.com/Bryan-Richlab/construire-site-premium.git %USERPROF
 
 Ensuite tape `/construire-site-premium` dans Claude Code pour démarrer.
 
----
 
 ## Ce qui est installé
 
@@ -38,14 +36,12 @@ Ensuite tape `/construire-site-premium` dans Claude Code pour démarrer.
 | **Framer Motion** | Animations fluides — transitions de pages, effets au survol, révélations au scroll. La différence entre un site à 500€ et un à 10 000€. |
 | **21st.dev Magic** | 100+ composants React prêts pour la production. Boutons, navbars, sections hero, cartes, footers — tous pre-designés. |
 
----
 
 ## Prérequis
 
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) installé
 - [Node.js](https://nodejs.org) (version LTS)
 
----
 
 ## Après l'installation
 
