@@ -10,7 +10,7 @@ Créé par [@bryanrichmaker](https://instagram.com/bryanrichmaker)
 
 **La façon la plus simple :** Ouvre Claude Code et dis :
 
-> Installe ce skill pour moi : https://github.com/Bryan-Richlab/construire-site-premium
+> Installe ce skill pour moi : https://github.com/Bryan-Richmaker/construire-site-premium
 
 Claude s'occupe du reste.
 
@@ -18,12 +18,12 @@ Claude s'occupe du reste.
 
 Mac/Linux dans le terminal :
 ```bash
-git clone https://github.com/Bryan-Richlab/construire-site-premium.git ~/.claude/commands/construire-site-premium
+git clone https://github.com/Bryan-Richmaker/construire-site-premium.git ~/.claude/commands/construire-site-premium
 ```
 
 Windows (Terminal) :
 ```bash
-git clone https://github.com/Bryan-Richlab/construire-site-premium.git %USERPROFILE%\.claude\commands\construire-site-premium
+git clone https://github.com/Bryan-Richmaker/construire-site-premium.git %USERPROFILE%\.claude\commands\construire-site-premium
 ```
 
 Ensuite tape `/construire-site-premium` dans Claude Code pour démarrer.
