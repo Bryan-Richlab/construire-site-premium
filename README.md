@@ -1,4 +1,4 @@
-# Construire Site Premium — Claude Code Skill
+# Construire Site Premium
 
 Crée des sites web professionnels et animés avec l'IA — sans expérience en code. Ce skill installe trois outils qui transforment Claude en studio de design web complet.
 
